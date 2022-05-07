@@ -1,1 +1,5 @@
 # openSourceAssignment
+
+# LICENSE
+
+[MIT](LICENSE)
